@@ -6,6 +6,7 @@ Simple Python homework assignments for class.
 
 - `Assignments/HW1/enrollment.py`
 - `Assignments/HW2/validator.py`
+- `Assignments/HW3/seats.py`
 
 ## Run
 
@@ -14,4 +15,5 @@ Use `python3` to run the files:
 ```bash
 python3 Assignments/HW1/enrollment.py
 python3 Assignments/HW2/validator.py
+python3 Assignments/HW3/seats.py
 ```
